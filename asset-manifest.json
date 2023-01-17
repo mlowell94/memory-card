@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.d1adee2f.css",
+    "main.js": "/memory-card/static/js/main.312db077.js",
+    "static/media/FOTRodin Pro L.otf": "/memory-card/static/media/FOTRodin Pro L.217379ba9ec0bb9e6137.otf",
+    "index.html": "/memory-card/index.html",
+    "static/media/hexagon.svg": "/memory-card/static/media/hexagon.0a1e049650e418635391561204ff7d2e.svg",
+    "static/media/hexagon-orange.svg": "/memory-card/static/media/hexagon-orange.0dfd594defc43879b5fd44e900b067e8.svg",
+    "static/media/hexagon-purple.svg": "/memory-card/static/media/hexagon-purple.3f89211a38ba9dbd2d0160310847ce6b.svg",
+    "static/media/hexagon-blue.svg": "/memory-card/static/media/hexagon-blue.33ee778a55c44603c946da84f5b3871f.svg",
+    "static/media/hexagon-red.svg": "/memory-card/static/media/hexagon-red.3fcbf44751659912982e7d31d582b393.svg",
+    "static/media/triangle.svg": "/memory-card/static/media/triangle.223b0dd5b6f7e3e11443d6a6571383f0.svg",
+    "static/media/triangle-orange.svg": "/memory-card/static/media/triangle-orange.e4cd5b2816e4ee723e62eec6d08fb48f.svg",
+    "static/media/triangle-purple.svg": "/memory-card/static/media/triangle-purple.9c9f5ce8411b09e8027b75fcf9a1b648.svg",
+    "static/media/octagon.svg": "/memory-card/static/media/octagon.232ab3dd95ff3aaeb11b98afd599c309.svg",
+    "static/media/triangle-blue.svg": "/memory-card/static/media/triangle-blue.429daa65b56ce2b5eaa4ee7b7d61d6d5.svg",
+    "static/media/triangle-red.svg": "/memory-card/static/media/triangle-red.deb25ea0f85893e64ceb2c872d5d0421.svg",
+    "static/media/octagon-orange.svg": "/memory-card/static/media/octagon-orange.77c4d4566491d5b72c959fba1a4e477e.svg",
+    "static/media/octagon-purple.svg": "/memory-card/static/media/octagon-purple.f28e1a3d6277ac4f94015e724c015988.svg",
+    "static/media/octagon-blue.svg": "/memory-card/static/media/octagon-blue.8e1da2f2a37fb05099474d194ab43cad.svg",
+    "static/media/octagon-red.svg": "/memory-card/static/media/octagon-red.4e3cd2f0f0a8e548ab48f2d94fc7fd9a.svg",
+    "static/media/square.svg": "/memory-card/static/media/square.d07b7c812c845b053bc32bf7c0aa0c09.svg",
+    "static/media/square-orange.svg": "/memory-card/static/media/square-orange.7c5ff571fba8bbcc8100ff2065ba0cce.svg",
+    "static/media/square-purple.svg": "/memory-card/static/media/square-purple.e42a4150c3b9fe145c0b451f4165a766.svg",
+    "static/media/square-blue.svg": "/memory-card/static/media/square-blue.2990f68ed1567d82bb9d3fc29ce456d9.svg",
+    "static/media/square-red.svg": "/memory-card/static/media/square-red.f865e89a51024cd26e5ef00bd2904731.svg",
+    "static/media/circle.svg": "/memory-card/static/media/circle.79ea1c8985edfa74fab2e281cb1b098f.svg",
+    "static/media/circle-orange.svg": "/memory-card/static/media/circle-orange.2b8186e7fdea9a4494577bf2f1d53a2a.svg",
+    "static/media/circle-purple.svg": "/memory-card/static/media/circle-purple.0969aa0b748dfbde0d5bb93e7121ac03.svg",
+    "static/media/circle-blue.svg": "/memory-card/static/media/circle-blue.a24466f6525e472004898778dc47662e.svg",
+    "static/media/circle-red.svg": "/memory-card/static/media/circle-red.48c0692ea8a687b001036e6b324cb0fa.svg",
+    "main.d1adee2f.css.map": "/memory-card/static/css/main.d1adee2f.css.map",
+    "main.312db077.js.map": "/memory-card/static/js/main.312db077.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1adee2f.css",
+    "static/js/main.312db077.js"
+  ]
+}
